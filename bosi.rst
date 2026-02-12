@@ -44,9 +44,10 @@ learning and scholarship with goal of assisting in the revitalization of
 the Barre City Downtown For further information about the development
 and implementation of the BOSI concept, please visit our web site:
 
-?? Use github site here: //http://docbox.flint.com/~flint/bosi/
+-  https://github.com/flintiii/bosi-u/blob/main/bosi.rst
 
-Note the web site is currently merely a repository for BOSI papers.
+Note the web site is currently the working repository for BOSI
+documents.
 
 SUMMARY
 =======
@@ -60,8 +61,8 @@ well as participants in the Worldwide Free and Open Source (FOSS)
 movement. This couples with the need to grow the Downtown Barre City
 economic base and workforce viability. The result of successful
 participation in the institute shall include recognition of participants
-for example in the awarding of advanced degrees for those deserving in
-their art craft research or discipline.
+for example, in the awarding of advanced degrees for those deserving in
+their research. art, craft or discipline.
 
 The Barre Open Systems Institute (BOSI), once reorganized as a 501(c)(3)
 organization, as a U.S. nonprofit, intends to form commercially
@@ -77,7 +78,7 @@ The summary costs for this project are included here:
 -  $475,000 for establishing the BOSI location in Barre City.
 -  $150,000 Full time coordinator position ($75,000/year for 2 years).
 -  $150,000 for promotion and supporting development.
--  $175,000 for rent and asset purchase.
+-  $175,000 equipment and facilities purchase.
 
 Note that these are notional figures which shall be revised and refined
 in subsequent revisions.
@@ -91,21 +92,27 @@ City. The result of this
 Through donations and grants BOSI will be able to initiallt prosper on
 the
 
-Barre City Floodplain
+Barre City urban floodplain.
 
 BARRE OPEN SYSTEM INSTITUTE INTRODUCTION
 ========================================
 
+The Barre Open System Institute (BOSI) is a community of scholars
+directly involved in the study, research and development of open
+systems. Open systems are the basis for viable scientifically verifiable
+methods and systems of all types.
+
 History
 -------
 
-Opereating Since 2010
+BOSI began operating in 2010, originally part of a combined youth and
+elder day care program located in the basement of the Hedding United
+Methodist Church, in 2023, BOSI relocated to the East Barre York
+Library, where we currently hold weekly technical and organizational
+meetings every Monday evening at six o’clock.
 
--  Originally located in the Hedding United Methodist
--  Relocated to the East Barre York Library
-
-Description
------------
+Vision
+------
 
 -  The BOSI endeavors to create and establish a Barre City based
    “campus” where educational classroom space, research, development,
@@ -122,8 +129,8 @@ Description
    -  Support for growing businesses and their recruiting goals via high
       profile work venues.
 
--  Give entry point to owner’s adjacent commercial office facilities
-   with focused marketing opportunities.
+-  Give entry point to owner’s local commercial office facilities with
+   focused marketing opportunities.
 -  Make Vermont technology companies more visible both within the state
    and outside the state.
 
@@ -155,13 +162,14 @@ Local Participants
 -  Startup and established software and technology companies.
 -  2014 Northeast Kingdom Fund Grants
 -  Generator, Burlington Vermont
+-  Black River Innovation Campus
 -  Reynolds Corporation, Barre Vermont
 -  Existing facility owners
 
 State Government
 ~~~~~~~~~~~~~~~~
 
--  Vermont Department of Economic Development
+-  Vermont Department of Labor
 -  Vermont Department of Education
 -  Vermont Department of Economic Development
 -  Vermont Agency of Commerce
@@ -180,9 +188,9 @@ Contemplated Services
 The Vermont BOSI educational project shall offer the following
 consulting services:
 
--  **Needs Analysis:** Determine what organizational and/or technology
-   gaps exist in decision making process, recommend changes.
--  **Coaching:** Guide the owner through various scenarios, help them
+-  **Classes:** Organized instructional activities for local and remote
+   with the objective to instill use of Free Open Source Systems (FOSS).
+-  **Coaching:** Guide participants through various scenarios, help them
    purchase facilities, tools and technology, build on technological
    synergies with client's customers, push owner to test the limits of
    their technological capabilities and potential.
@@ -190,7 +198,7 @@ consulting services:
    organization, hardware and software skills development. Business
    development, tax advice, and other general businesses development
    services.
--  
+
 -  **Banking and Financial Services: ** Involves the creation and
    deployment of the Vermont Contractors Credit Union (VCCU), a
    specialized financial institution that is critical to the development
@@ -208,8 +216,12 @@ consulting services:
    participating companies within a regional BOSI and match for
    projected growth needs.
 
--  **Sales Support: **\ Provide sales support staff on the areas of
-   sales, marketing, and lead generation for new business opportunity.
+-  | **Sales Support: **\ Provide sales support staff on the areas of
+     sales, marketing, and lead generation for new business opportunity.
+
+   -  **Needs Analysis:** Determine what organizational and/or
+      technology gaps exist in decision making process, recommend
+      changes.
 
 Facilities
 ----------
@@ -228,24 +240,28 @@ configuration will have as common characteristics the following:
 DISCUSSION OF PROBLEM OR NEED
 =============================
 
-Barre City is in a death spiral
+One valid analysis might place Barre City is in a death spiral. Several
+factors involved include several years of downtown area flooding, the
+resule is a formal declaration of downtown area as a flood plain, loss
+of passenger rail, numerous business closures or relocation outside of
+the city. Little if any new residential or commercial construction.
 
-Loss of passenger rail
+Barre City needs a reason for renovation of downtown rather than
+abandonment which seems the current trend. Additionally the population
+of Central Vermont needs something in their career path beyond high
+school, which is the current norm.
 
-Declaration of downtown area as a flood plain
+The lifelong learning BOSI educational project has no age discrimination
+or limit.
 
-Need a force for renovation of downtown rather than abandonment
-
-Something beyond high school
-
-Lifelong learning BOSI educational project has no age discrimination or
-limit.
-
-Research
+We see the future of Barre City as a place for instruction, research and
+development.
 
 Development
 
-Value added?
+Barre City needs to become a destination. BOSI becomes a value added
+destination, and this will attract all manner of positive activities,
+destinations and businesses to the central city.
 
 METHODS
 =======
@@ -253,19 +269,32 @@ METHODS
 Overview
 --------
 
-The BOSI system is designed to benefit two different groups, these are:
+Barre City has a diverse history of industrial development based on
+quarrying stone. The current population perceives little benefit from
+continuing education. The goal of BOSI is to enable learning for the
+diverse population of Barre City, Central Vermont as well as the entire
+state.
+
+Essentially, the BOSI system is designed to benefit two different
+groups, these are:
 
 1. Participants
 2. Customers
 
+Below is an approximate outline of how we perceive these groups.
+
 Participants
 ~~~~~~~~~~~~
+
+Participants include the community, teachers and students. These are the
+core group that BOSI adresses.
 
 Students
 ^^^^^^^^
 
-The Participants are the unemployed or underemployed individuals who
-need core technical education, training and apprenticeship activities.
+The Student Participant are the unemployed or underemployed individuals
+who need core technical education, training and apprenticeship
+activities.
 
 Community
 ^^^^^^^^^
@@ -390,32 +419,22 @@ Table 1 Barre BOSI Time Implementation Time-Line
 Staffing
 --------
 
-See Section `7.2 <#anchor-53>`__
+See Section `6.2 <#anchor-49>`__
 
 Facilities & Equipment
 ----------------------
 
-See Section `7.3 <#anchor-55>`__
+See Section `6.3 <#anchor-51>`__
 
 Collaboration
 -------------
-
-EVALUATION PLANS
-================
-
-Focused on how the Pedagogical elements ameliorate or mitigate Problems
-and Need as detailed above.
-
-Process Objective kept within the method section.
-
-An outcome objective details the result of the method.
-
-Program reports
 
 BUDGET
 ======
 
 Direct
+
+Notional Budget
 
 Executive Summary
 -----------------
@@ -423,6 +442,20 @@ Executive Summary
 -  \ **Procurement Sourcing:** Establish long-term channels and
    determine technology suppliers. Manage sourcing and recommend
    upgrades on a quarterly basis.
+
+Personnel
+---------
+
+An FTE with the position of coordinating Director in enhanced with
+Promotion Support and Development personnel assets for the two year
+operational cycle of the facility
+
+Their Qualifications are as follows:
+
+-  Full Time Coordinator
+-  Promotion
+-  Support
+-  Development
 
 +-------------------------+----------+----------+-----------+
 | Personnel               |          |          |           |
@@ -439,6 +472,23 @@ Executive Summary
 +-------------------------+----------+----------+-----------+
 
 Table Barre Facility Direct Personnel Expenses
+
+Non personnel
+-------------
+
+The following are the facilities necessary to open these facilities and
+to allow for the customer and participant use of the BOSI:
+
+-  Infant-Elder Care Area (BrainCare)
+-  Credit Union (VCCU)
+-  Fabrication Lab (FabLab)
+
+   -  Welding
+   -  Woodworking
+   -  Electronics
+   -  HVAC
+
+-  Lease Hold Improvements
 
 +---------------------------+----------+----------+-----------+
 | Direct                    |          |          |           |
@@ -457,37 +507,6 @@ Table Barre Facility Direct Personnel Expenses
 +---------------------------+----------+----------+-----------+
 
 Table 3 Barre Facility Non Personnel Expenses
-
-Personnel
----------
-
-An FTE with the position of coordinating Director in enhanced with
-Promotion Support and Development personnel assets for the two year
-operational cycle of the facility
-
-Their Qualifications are as follows:
-
--  Full Time Coordinator
--  Promotion
--  Support
--  Development
-
-Non personnel
--------------
-
-The following are the facilities necessary to open these facilities and
-to allow for the customer and participant use of the BOSI:
-
--  Infant-Elder Care Area (BrainCare)
--  Credit Union (VCCU)
--  Fabrication Lab (FabLab)
-
-   -  Welding
-   -  Woodworking
-   -  Electronics
-   -  HVAC
-
--  Lease Hold Improvements
 
 Indirect
 --------
@@ -529,8 +548,8 @@ Funding
 ~~~~~~~
 
 Funding and revenue will be generated through a combination of Federal
-grants and local ??(WETF)?? grants. Clients will be expected to pay for
-a percentage of the costs involved, depending on their financial status.
+grants and local grants. Clients will be expected to pay for a
+percentage of the costs involved, depending on their financial status.
 The USDA through the Federal Partnership Program we plan to have as the
 largest expected revenue generator. Under this program, The BOSIs may
 qualify for additional Vermont State grants, and matching Federal
@@ -540,24 +559,17 @@ will help continue funding for the organization.
 
 Federal and State grants alone, or even combined with small business
 client revenue is still not enough to allow the company to achieve its
-stated mission. A low cost monthly retainer fee will be required of all
-participants. Depending upon the participant or customer, this fee might
-range from between $50-100 monthly with additional revenue being a
-percentage of sales generated by the affiliate program. In exchange for
-this low monthly fee, the client will have 100% access to all
-BOSI services, and they will often find that the cost savings, and
-revenue developed through a relationship with The will more than pay for
-the low monthly retainer.
+stated mission. A low cost monthly retainer fee will be considered of
+all participants in light of financial exigencies. Depending upon the
+participant or customer, this fee might range from between $50-100
+monthly with additional revenue being a percentage of sales generated by
+the affiliate program. In exchange for this low monthly fee, the client
+will have 100% access to all BOSI services, and they will often find
+that the cost savings, and revenue developed through a relationship with
+The will more than pay for the low monthly retainer.
 
-THE FUTURE 
-===========
-
-Plan for success…failure shall always take care of itself.
-
-Linius Torvalds verses the Finnish winter.
-
-INTRODUCTION TO APPLICANT AGENCY
-================================
+ORGANIZATIONAL INTRODUCTION 
+============================
 
 As a potential partner or participant in the BOSI plan, you are being
 asked to fund and expand an existing model. Vermont is all about two
@@ -576,18 +588,54 @@ Organization Propose
 The association of these existing and future maker spaces when
 augmented.
 
-Locations And Service Areas
----------------------------
+Location 
+---------
 
 In an effort to follow existing state protocols for the distribution of
 the BOSI facilities, our initial proposal would be to locate BOSI
-facilities in underutilized educational spaces. Possible locations
+facilities in underutilized educational spaces.
+
+We intent to petition the City of Barre for a grant consisting of the
+use of the abandoned Railroad station in central Barre City as the
+initial offices, classrooms, research and development facilities.
+
+And Service Areas
+-----------------
+
+Not limited to central down town Barre City. Meetings and classes shall
+be conducted both virtually using open source meeting software as well
+as active class meetings and participation.
+
+`1 <#anchor-25>`__  `Participants <#anchor-25>`__
+------------------------------------------------
+
+Collaboration – Partnership
+
+Given the target populations we expect to involve in this project
 include:
+
+-  Students
+-  Customers
+-  Teachers
+-  Subject Matter Experts (SMAs)
+-  Volunteers
+-  Real Estate
+-  Developers
+-  Legal
 
 Who Benefits, How Many Per Year
 -------------------------------
 
-?? Needs to be filled in ??
+Predicting the future is not an accurate eexercise.
+
+We only know that over 100 applicants to the Barre Career Center are
+part of a pool of potential applications. Note that there is no age or
+other form discrimination,
+
+For further information please reference `1 <#anchor-25>`__
+
+ADA compliance
+~~~~~~~~~~~~~~
 
 Staff – Board Of Directors
 --------------------------
@@ -602,47 +650,27 @@ Systems Institte.
 +--------------+-------------+----------------+--------------------------------------------------+
 |              | Chairman    |                |                                                  |
 +--------------+-------------+----------------+--------------------------------------------------+
-| Wendy Reys   | Treasurer   |                |                                                  |
+|              | Treasurer   |                |                                                  |
 +--------------+-------------+----------------+--------------------------------------------------+
 |              | Secretary   |                |                                                  |
 +--------------+-------------+----------------+--------------------------------------------------+
 
 Table 4 Barre BOSI Notional Board of Directors
 
-Collaboration – Partnership
----------------------------
-
-Given the target populations we expect to involve in this project
-include:
-
--  Students
--  Customers
--  Teachers
--  Financial Subject Matter Experts (SMAs)
--  Real Estate
--  Legal
-
-For further information please reference `1 <#anchor-29>`__
-
-Organizational Infrastructure
------------------------------
-
-Polemic
-~~~~~~~
-
-ADA compliance
-~~~~~~~~~~~~~~
-
-\ `1 <#anchor-29>`__  `Participants <#anchor-29>`__
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 Funding Sources
 ---------------
+
+In order for this project to start we need to incorporate BOSI and
+obtain competent Legal and Accounting expertise in order to manage
+donations optimally.
 
 Donations
 
 In Kind Donations
 ~~~~~~~~~~~~~~~~~
+
+Other gifts and bequests
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Technorubble Project
 ^^^^^^^^^^^^^^^^^^^^
@@ -656,14 +684,64 @@ Downtown facilities preferred
 Offices and Classrooms are renewable.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Other gifts and bequests
-~~~~~~~~~~~~~~~~~~~~~~~~
-
 Once BOSI can demonstrate 501(c)(3) tax exemption from the IRS for
 charitable, educational, religious, scientific, or literary purposes.
 Any donation no matter how large or small can make a difference not only
-to educating our folks of any age, but helps in the revitalization of
-the Barre City Downtown Corridor.
+to educating folks of any age, but helps in the revitalization of the
+Barre City Downtown Corridor.
+
+Organizational Infrastructure
+-----------------------------
+
+Governance similar to U.S. Model
+
+Robots Rules
+
+Crypto-exec
+
+EVALUATION PLANS
+================
+
+Focused on how the Pedagogical elements ameliorate or mitigate Problems
+and Need as detailed above.
+
+Process Objective kept within the method section.
+
+An outcome objective details the result of the method.
+
+Program reports
+
+Balance Sheet
+-------------
+
+Income statement
+----------------
+
+POLEMIC
+=======
+
+?? What you the author have to say”
+
+The Future 
+-----------
+
+*Consilium ad successum habe... detrimentum semper se ipsum curabit.*
+
+-- Plan for success…failure shall always take care of itself.
+
+This document is drafted in the winter of 2026
+
+This is where your author realizes that this is likely a “University in
+Speech’, as I am the teller of this tail of a better downtown Barre City
+environment.
+
+Winter in Finland / Winter in Vermont
+-------------------------------------
+
+Linius Torvalds verses the Finnish winter.
+
+As you have gotten this far in this document, I want to thank you. I
+have lived a long an
 
 .. [1]
     Details regarding the Vermont Contractors Credit Union shall be
