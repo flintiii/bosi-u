@@ -12,7 +12,7 @@ PROPOSAL AND PROGRAM PLAN
 
 Prepared By:
 
-Bare Open System Institute
+Barre Open System Institute
 
 Revision Log
 
@@ -363,8 +363,8 @@ our modern culture takes Science most seriously. Science is the basis of
 our physical and logical reality. We follow Science. But, there is humor
 in all things…
 
-*“Science…science…oh what a gas? Who’s first for 6 arms, or a triple
-ass? These myriad wonders will all come to pass thanks to Science…”*
+“Science…science…oh what a gas? Who’s first for 6 arms, or a triple ass?
+These myriad wonders will all come to pass thanks to Science…”
 
 From magnetic tape recovered from WVUS studios, Putney Vermont circa
 1975… In all things there is humor.
@@ -565,7 +565,7 @@ Table 3 Barre Facility Non Personnel Expenses
 Facilities & Equipment
 ----------------------
 
-See Section `6.3 <#anchor-62>`__ Budget
+See Section `6.3 <#anchor-61>`__ Budget
 
 Indirect
 --------
