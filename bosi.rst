@@ -54,7 +54,7 @@ SUMMARY
 
 The inception of the Barre Open Systems Institute as a non-profit
 educational organization dedicated to the creation of an academic
-environment to foster Science Transportation Education Arts and Medicine
+environment to foster Science Transparency Education Arts and Medicine
 (STEAM) initiatives. The participants in the Institute are local school
 systems, libraries, companies, students, apprentices and individuals as
 well as participants in the Worldwide Free and Open Source (FOSS)
@@ -122,8 +122,8 @@ BOSI. The complete membership can be found on the BOSI mailing list.
 
 - The BOSI endeavors to create and establish a Barre City based “campus”
   where educational classroom space, research, development,
-  Transportation and software companies can educate, incubate and / or
-  choose to locate.
+  Transportation, Transparency and software companies can educate,
+  incubate and / or choose to locate.
 
 - These facilities nurture and provide tenant small businesses and
   companies with benefits such as:
@@ -140,8 +140,8 @@ BOSI. The complete membership can be found on the BOSI mailing list.
 - Give entry point to owner’s local commercial office facilities with
   focused marketing opportunities.
 
-- Make Vermont Transportation companies more visible both within the
-  state and outside the state.
+- Make Barre City Vermont Transportation companies more visible both
+  within the state and outside the state.
 
 Objectives
 ----------
@@ -245,14 +245,14 @@ configuration will have as common characteristics the following:
 - Vermont Contractors Credit Union
 - Office and organizational space
 - Storage and inventory Space
-- Shipping facilities
 - Internet and Telecommunications capability
+- Shipping and Transportation facilities
 
 DISCUSSION OF PROBLEM OR NEED
 =============================
 
 One valid analysis might place Barre City is in a death spiral. Factors
-involved include several years of downtown area flooding; the defundinf
+involved include several years of downtown area flooding; the defunding
 of the North Barre renovation effort, the result is a formal declaration
 of downtown area as a flood plain, loss of passenger rail, numerous
 business closures or relocation outside of the city. Little if any new
@@ -363,11 +363,9 @@ our modern culture takes Science most seriously. Science is the basis of
 our physical and logical reality. We follow Science. But, there is humor
 in all things…
 
-“Science…science…oh what a gas? Who’s first for 6 arms, or a triple ass?
-These myriad wonders will all come to pass thanks to Science…”
-
-From magnetic tape recovered from WVUS studios, Putney Vermont circa
-1975… In all things there is humor.
+*“Science…science…oh what a gas? Who’s first for 6 arms, or a triple
+ass? These myriad wonders will all come to pass thanks to
+Science…”*\ :sup:` [3]_`
 
 Transportation
 ~~~~~~~~~~~~~~
@@ -407,7 +405,7 @@ changes).
 Within these fields the important activities include but are not limited
 to:
 
-- Study
+- Music Study
 - Education
 - Research and
 - Development
@@ -455,29 +453,30 @@ The following is the representative time line for the Barre BOSI.
 Additional milestones and time lines will be necessary for other
 participating programs.
 
-+------------+------------+----------+--------+------------+------------+
-| Milestones |            |          |        |            |            |
-+------------+------------+----------+--------+------------+------------+
-|            |            |          |        |            |            |
-+------------+------------+----------+--------+------------+------------+
-| Milestone  | Start Date | End Date | Budget | Manager    | Department |
-+------------+------------+----------+--------+------------+------------+
-| Creation   | 5/7/2026   | 8/5/2026 | $0     | Committee  | Admin      |
-| of Vermont |            |          |        |            |            |
-| BOSI Inc.  |            |          |        |            |            |
-+------------+------------+----------+--------+------------+------------+
-| First BOSI | 5/7/2026   | 8/5/2026 | $0     | Paul Flint | Admin      |
-| Location   |            |          |        |            |            |
-| secured    |            |          |        |            |            |
-+------------+------------+----------+--------+------------+------------+
-| First      | 5/7/2026   | 8/5/2018 | $0     | Property   | Admin      |
-| Company    |            |          |        | Mgr.       |            |
-| moves in   |            |          |        |            |            |
-+------------+------------+----------+--------+------------+------------+
-|            |            |          |        |            |            |
-+------------+------------+----------+--------+------------+------------+
-| Totals     |            |          | $0     |            |            |
-+------------+------------+----------+--------+------------+------------+
++------------+-----------+----------+--------+------------+------------+
+| Milestones |           |          |        |            |            |
++------------+-----------+----------+--------+------------+------------+
+|            |           |          |        |            |            |
++------------+-----------+----------+--------+------------+------------+
+| Milestone  | Start     | End Date | Budget | Manager    | Department |
+|            | Date      |          |        |            |            |
++------------+-----------+----------+--------+------------+------------+
+| Creation   | 5/7/2026  | 8/5/2026 | $0     | Committee  | Admin      |
+| of Vermont |           |          |        |            |            |
+| BOSI Inc.  |           |          |        |            |            |
++------------+-----------+----------+--------+------------+------------+
+| First BOSI | 5/7/2026  | 8/5/2026 | $0     | Paul Flint | Admin      |
+| Location   |           |          |        |            |            |
+| secured    |           |          |        |            |            |
++------------+-----------+----------+--------+------------+------------+
+| First      | 5/7/2026  | 8/5/2018 | $0     | Property   | Admin      |
+| Company    |           |          |        | Mgr.       |            |
+| moves in   |           |          |        |            |            |
++------------+-----------+----------+--------+------------+------------+
+|            |           |          |        |            |            |
++------------+-----------+----------+--------+------------+------------+
+| Totals     |           |          | $0     |            |            |
++------------+-----------+----------+--------+------------+------------+
 
 Table 1 Barre BOSI Time Implementation Time-Line
 
@@ -565,7 +564,7 @@ Table 3 Barre Facility Non Personnel Expenses
 Facilities & Equipment
 ----------------------
 
-See Section `6.3 <#anchor-61>`__ Budget
+See Section `6.3 <#anchor-62>`__ Budget
 
 Indirect
 --------
@@ -586,22 +585,22 @@ Competitive Edge
 ~~~~~~~~~~~~~~~~
 
 The Vermont BOSIs' competitive edge is in its ability to leverage our
-relationships in the Transportation community throughout the State of
-Vermont. Our association with the Vermont Transportation Alliance (VtTA)
-has shown us that Transportation companies are enthusiastic and
-committed toward the development of the participants and the creation of
-"Brain Communities" within these BOSIs.
+relationships in the Education, Transportation, Research and Development
+community throughout the State of Vermont. Our association with the
+Vermont Technology Alliance (VtTA) has shown us that Technology
+companies are enthusiastic and committed toward the development of the
+participants and the creation of "Brain Communities" within these BOSIs.
 
 Marketing Strategy
 ~~~~~~~~~~~~~~~~~~
 
 The associated regional Vermont BOSI’s plan to market their services
 through strategic partnerships with multiple profit and non-profit
-organizations that have a focus within the Transportation sector of
-Vermont. Existing BOSI websites exist and will be enhanced to market to
-company participants, new hires searching for positions, apprentices
-searching for internship opportunities, E-mail campaigns and outreach
-will be ongoing to promote BOSI participation.
+organizations that have a focus within the Technology sector of Vermont.
+Existing BOSI websites exist and will be enhanced to market to company
+participants, new hires searching for positions, apprentices searching
+for internship opportunities, E-mail campaigns and outreach will be
+ongoing to promote BOSI participation.
 
 Funding
 ~~~~~~~
@@ -656,9 +655,10 @@ institution, our initial proposal would be to locate BOSI facilities in
 underutilized urban spaces.
 
 We intent to petition the City of Barre for a grant consisting of the
-use of the abandoned Railroad station and other unused facilities in
+use of the Abandoned Railroad Station and other unused facilities in
 central Barre City as the initial offices, classrooms, research and
-development facilities.
+development facilities. Each of these physical locations shall require a
+specific plan of it’s own,
 
 Service Via Transportation 
 ---------------------------
@@ -667,12 +667,8 @@ Not limited to central down town Barre City. Meetings and classes shall
 be conducted both virtually using open source meeting software as well
 as active class meetings and participation.
 
-.. _participants-1:
-
-`Participants <#anchor-25>`__
------------------------------
-
-Collaboration – Partnership
+`Participants <#anchor-24>`__ Collaboration – Partnership
+---------------------------------------------------------
 
 Given the target populations we expect to involve in this project
 include:
@@ -935,7 +931,7 @@ Morality?
 ~~~~~~~~~~
 
 In the world we have been blessed with a mosaic of cultures. Each of
-these has a differing morality. Additionally each of these moralities
+these has a differing morality. Additionally each of these Moralities
 change over time. Could the Current New England Ethic help bring the
 world closer to peace and harmony?
 
@@ -954,13 +950,13 @@ first person and within this plead for the abeyance of my reader, for
 the greatest possibility is that all this is merely chimera and shall
 never come to pass.
 
-**Winter in Finland vs. winter in Vermont**.
+**Winter In Finland Vs. Winter In Vermont**.
 
 In 1990 the legend of the software engineer who changed the world was
 born.
 
 Linus Torvalds spent some portion of the Finnish winter developing the
-Linux kernel, and forever changed the very nature of Transportation. It
+Linux kernel, and forever changed the very nature of Technology. It
 gives a subtle feeling for what nature’s winter can do. How wonderful it
 would be if, in our winters we could develop wonderful world changing
 concepts and devices?
@@ -980,7 +976,7 @@ possibly based on new scarcities and abundances.
 End Note
 
 As you have gotten this far in this document, I want to thank you. I
-have lived a long and happy life, I would hope that all the learning and
+have lived a long and happy life; I would hope that all the learning and
 experience poured into me these seventy-one odd years shows in this
 document as a benefit.
 
@@ -996,3 +992,7 @@ http://docbox.flint.com
 
 .. [2]
    https://en.wikipedia.org/wiki/Center_for_Bits_and_Atoms
+
+.. [3]
+   *Source: From magnetic tape recovered from WVUS studios, Putney
+   Vermont circa 1975…* In all things there is humor.
